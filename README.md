@@ -26,19 +26,19 @@ I'm an ordinary guy who's extraordinarily curious about Infosec. I'm passionate 
 
 ## :fire: Rapidfire
 
-- ⛏️   Career: Lead Security Engineer at Credible (a subsidiary of Fox)
+- ⛏️ - Career: Lead Security Engineer at Credible (a subsidiary of Fox)
 
 
-- 🎓   Teaching: In my spare time, I'm a [Cybesecurity Instructor](https://app.pluralsight.com/profile/author/zach-roof) at Pluralsight
+- 🎓 - Teaching: In my spare time, I'm a [Cybesecurity Instructor](https://app.pluralsight.com/profile/author/zach-roof) at Pluralsight
 
 
-- 🧑‍🤝‍🧑   Community: I create AppSec tutorials on [Securing The Stack](https://securingthestack.com/)
+- 🧑‍🤝‍🧑 - Community: I create AppSec tutorials on [Securing The Stack](https://securingthestack.com/)
 
 
-- ⚡   Fun fact: I love taking pictures. I took the cat picture (above) in Puerto Rico :cat:
+- ⚡ - Fun fact: I love taking pictures. I took the cat picture (above) in Puerto Rico :cat:
 
 
-- ✉️   Connect: [Gitter Community Chat](https://gitter.im/zachroofsec/community)
+- ✉️ - Connect: [Gitter Community Chat](https://gitter.im/zachroofsec/community)
 
 <br/>
 <br/>
