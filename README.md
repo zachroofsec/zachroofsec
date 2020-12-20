@@ -35,7 +35,7 @@ I'm an ordinary guy who's extraordinarily curious about Infosec. I'm passionate 
 - 🧑‍🤝‍🧑 Community: I create AppSec tutorials on [Securing The Stack](https://securingthestack.com/)
 
 
-- ⚡ Fun fact: I love taking pictures. Do you see the sleeping cat in the above photo? I took that in Puerto Rico :cat:
+- ⚡ Fun fact: I love taking pictures. I took the cat picture (above) in Puerto Rico :cat:
 
 
 - ✉️ Connect: [Gitter Community Chat](https://gitter.im/zachroofsec/community)
