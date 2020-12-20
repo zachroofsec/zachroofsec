@@ -24,36 +24,36 @@ I'm an ordinary guy who's extraordinarily curious about Infosec. I'm passionate 
 <br/>
 
 
-## Rapidfire
+## :fire: Rapidfire
 
-- ⛏️&nbsp;Career: Lead Security Engineer at Credible (a subsidiary of Fox)
-
-
-- 🎓 Teaching: In my spare time, I'm a [Cybesecurity Instructor](https://app.pluralsight.com/profile/author/zach-roof) at Pluralsight
+- ⛏️ - Career: Lead Security Engineer at Credible (a subsidiary of Fox)
 
 
-- 🧑‍🤝‍🧑 Community: I create AppSec tutorials on [Securing The Stack](https://securingthestack.com/)
+- 🎓 - Teaching: In my spare time, I'm a [Cybesecurity Instructor](https://app.pluralsight.com/profile/author/zach-roof) at Pluralsight
 
 
-- ⚡ Fun fact: I love taking pictures. I took the cat picture (above) in Puerto Rico :cat:
+- 🧑‍🤝‍🧑 - Community: I create AppSec tutorials on [Securing The Stack](https://securingthestack.com/)
 
 
-- ✉️ Connect: [Gitter Community Chat](https://gitter.im/zachroofsec/community)
+- ⚡ - Fun fact: I love taking pictures. I took the cat picture (above) in Puerto Rico :cat:
+
+
+- ✉️ - Connect: [Gitter Community Chat](https://gitter.im/zachroofsec/community)
 
 <br/>
 <br/>
 
-## Pluralsight Courses
+## :movie_camera: Pluralsight Courses
 
 ### Red Team
 + C2: [Command And Control With Merlin](https://www.pluralsight.com/courses/command-control-merlin)
     + [Demo Environment](https://github.com/zachroofsec/command-and-control-with-merlin)
-### Blue Team
+###  Blue Team
 + HIDS: [OS Analysis With Wazuh](https://github.com/zachroofsec/os-analysis-with-wazuh)
     + [Demo Environment](https://github.com/zachroofsec/os-analysis-with-wazuh)
 
 <br/>
 
-## Speaking
+## :sound:  Speaking
 + Cyber Security Panelist (S&P Global - 2020)
 + [Exploiting Local Developer Environments](https://syntaxcon.com/2018/session/exploiting-local-dev-environments/) (SyntaxCon - 2018)
