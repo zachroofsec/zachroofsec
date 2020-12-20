@@ -26,7 +26,7 @@ I'm an ordinary guy who's extraordinarily curious about Infosec. I'm passionate 
 
 ## Rapidfire
 
-- ⛏️  Career: Lead Security Engineer at Credible (a subsidiary of Fox)
+- ⛏️‎ Career: Lead Security Engineer at Credible (a subsidiary of Fox)
 
 
 - 🎓 Teaching: In my spare time, I'm a [Cybesecurity Instructor](https://app.pluralsight.com/profile/author/zach-roof) at Pluralsight
