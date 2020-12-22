@@ -49,7 +49,7 @@ I'm an ordinary guy who's extraordinarily curious about Infosec. I'm passionate 
 + C2: [Command And Control With Merlin](https://www.pluralsight.com/courses/command-control-merlin)
     + [Demo Environment](https://github.com/zachroofsec/command-and-control-with-merlin)
 ###  Blue Team
-+ HIDS: [OS Analysis With Wazuh](https://github.com/zachroofsec/os-analysis-with-wazuh)
++ HIDS: [OS Analysis With Wazuh](https://www.pluralsight.com/courses/os-analysis-wazuh)
     + [Demo Environment](https://github.com/zachroofsec/os-analysis-with-wazuh)
 
 <br/>
